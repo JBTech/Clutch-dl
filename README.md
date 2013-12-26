@@ -1,7 +1,7 @@
 Clutch
 ======
 
-Latest version: 1.3.2-git1
+Current version: *Clutch 1.3.2-git1*
 
 Downloads (https://github.com/KJCracks/Clutch-dl/releases)
 
@@ -11,7 +11,6 @@ Works with all devices, iOS versions, architecture types, with most binaries.
 
 Usage
 ------------
-Current version: *Clutch 1.3.1-git2*
 
 *Clutch* [flags] [application name] [...]
 
@@ -49,7 +48,7 @@ TODO
 
 
 
-(c) Kim Jong-Cracks 1819-2013
+(c) Kim Jong-Cracks 1819-2014
 
 
 Changelog
