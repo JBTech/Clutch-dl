@@ -14,7 +14,7 @@ Usage
 
 *Clutch* [flags] [application name] [...]
 
-`-C`      Runs the configuration utility
+`-C`      Runs the configuration utility<br/>
 `-a`      Crack all applications<br />
 `-u`      Cracks updated applications<br />
 `-f`      Flushes cache<br />
