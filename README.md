@@ -1,7 +1,7 @@
 Clutch
 ======
 
-Current version: *Clutch 1.3.2-git3*
+Current version: *Clutch 1.3.2-git5*
 
 Downloads (https://github.com/KJCracks/Clutch-dl/releases)
 
@@ -34,7 +34,8 @@ Licenses
 [ZipArchive](https://github.com/mattconnolly/ZipArchive/) by Matt Connolly, Edward Patel, et al.<br />
 [MiniZip](http://www.winimage.com/zLibDll/minizip.html) by Gilles Vollant adn Mathias Svensson.
 
-Thanks
+
+Credits
 ------------
 *Clutch* woudn't be what it is without these people:
 
@@ -42,6 +43,12 @@ dissident - The original creator of *Clutch* (pre 1.2.6)<br />
 Nighthawk - Code contributor (pre 1.2.6)<br />
 Rastignac - Inspiration and genius<br />
 TheSexyPenguin - Inspiration<br />
+
+Developers
+------------
+* ttwj
+* NinjaLikezCheez
+* Special thanks to Zorro
 
 TODO
 -------------
