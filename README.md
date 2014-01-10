@@ -1,7 +1,8 @@
 Clutch
 ======
 
-Current version: *Clutch 1.3.2-git5*
+Current stable version: *Clutch 1.3.2*
+Lastest development version: *Clutch 1.4-git1*
 
 Downloads (https://github.com/KJCracks/Clutch-dl/releases)
 
@@ -48,7 +49,7 @@ Developers
 ------------
 * ttwj
 * NinjaLikezCheez
-* Special thanks to Zorro
+* Zorro
 
 TODO
 -------------
